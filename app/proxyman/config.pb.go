@@ -7,10 +7,10 @@
 package proxyman
 
 import (
-	geodata "github.com/xtls/xray-core/common/geodata"
-	net "github.com/xtls/xray-core/common/net"
-	serial "github.com/xtls/xray-core/common/serial"
-	internet "github.com/xtls/xray-core/transport/internet"
+	geodata "github.com/allo-rs/Xray-core/common/geodata"
+	net "github.com/allo-rs/Xray-core/common/net"
+	serial "github.com/allo-rs/Xray-core/common/serial"
+	internet "github.com/allo-rs/Xray-core/transport/internet"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -519,7 +519,7 @@ const file_app_proxyman_config_proto_rawDesc = "" +
 	"\vconcurrency\x18\x02 \x01(\x05R\vconcurrency\x12(\n" +
 	"\x0fxudpConcurrency\x18\x03 \x01(\x05R\x0fxudpConcurrency\x12(\n" +
 	"\x0fxudpProxyUDP443\x18\x04 \x01(\tR\x0fxudpProxyUDP443BU\n" +
-	"\x15com.xray.app.proxymanP\x01Z&github.com/xtls/xray-core/app/proxyman\xaa\x02\x11Xray.App.Proxymanb\x06proto3"
+	"\x15com.xray.app.proxymanP\x01Z&github.com/allo-rs/Xray-core/app/proxyman\xaa\x02\x11Xray.App.Proxymanb\x06proto3"
 
 var (
 	file_app_proxyman_config_proto_rawDescOnce sync.Once

@@ -7,7 +7,7 @@
 package command
 
 import (
-	observatory "github.com/xtls/xray-core/app/observatory"
+	observatory "github.com/allo-rs/Xray-core/app/observatory"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -149,7 +149,7 @@ const file_app_observatory_command_command_proto_rawDesc = "" +
 	"\x06Config2\xa7\x01\n" +
 	"\x12ObservatoryService\x12\x90\x01\n" +
 	"\x11GetOutboundStatus\x12;.xray.core.app.observatory.command.GetOutboundStatusRequest\x1a<.xray.core.app.observatory.command.GetOutboundStatusResponse\"\x00B\x80\x01\n" +
-	"%com.xray.core.app.observatory.commandP\x01Z1github.com/xtls/xray-core/app/observatory/command\xaa\x02!Xray.Core.App.Observatory.Commandb\x06proto3"
+	"%com.xray.core.app.observatory.commandP\x01Z1github.com/allo-rs/Xray-core/app/observatory/command\xaa\x02!Xray.Core.App.Observatory.Commandb\x06proto3"
 
 var (
 	file_app_observatory_command_command_proto_rawDescOnce sync.Once

@@ -7,9 +7,9 @@
 package router
 
 import (
-	geodata "github.com/xtls/xray-core/common/geodata"
-	net "github.com/xtls/xray-core/common/net"
-	serial "github.com/xtls/xray-core/common/serial"
+	geodata "github.com/allo-rs/Xray-core/common/geodata"
+	net "github.com/allo-rs/Xray-core/common/net"
+	serial "github.com/allo-rs/Xray-core/common/serial"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -699,7 +699,7 @@ const file_app_router_config_proto_rawDesc = "" +
 	"\fIpIfNonMatch\x10\x02\x12\x0e\n" +
 	"\n" +
 	"IpOnDemand\x10\x03\"\x04\b\x01\x10\x01BO\n" +
-	"\x13com.xray.app.routerP\x01Z$github.com/xtls/xray-core/app/router\xaa\x02\x0fXray.App.Routerb\x06proto3"
+	"\x13com.xray.app.routerP\x01Z$github.com/allo-rs/Xray-core/app/router\xaa\x02\x0fXray.App.Routerb\x06proto3"
 
 var (
 	file_app_router_config_proto_rawDescOnce sync.Once

@@ -3,11 +3,11 @@ package router
 import (
 	"context"
 
-	"github.com/xtls/xray-core/app/observatory"
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/core"
-	"github.com/xtls/xray-core/features/extension"
+	"github.com/allo-rs/Xray-core/app/observatory"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/core"
+	"github.com/allo-rs/Xray-core/features/extension"
 )
 
 type LeastPingStrategy struct {

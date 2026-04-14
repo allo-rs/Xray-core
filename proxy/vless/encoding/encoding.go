@@ -4,15 +4,15 @@ import (
 	"context"
 	"io"
 
-	"github.com/xtls/xray-core/common/buf"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/common/protocol"
-	"github.com/xtls/xray-core/common/session"
-	"github.com/xtls/xray-core/common/signal"
-	"github.com/xtls/xray-core/common/uuid"
-	"github.com/xtls/xray-core/proxy"
-	"github.com/xtls/xray-core/proxy/vless"
+	"github.com/allo-rs/Xray-core/common/buf"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/session"
+	"github.com/allo-rs/Xray-core/common/signal"
+	"github.com/allo-rs/Xray-core/common/uuid"
+	"github.com/allo-rs/Xray-core/proxy"
+	"github.com/allo-rs/Xray-core/proxy/vless"
 )
 
 const (

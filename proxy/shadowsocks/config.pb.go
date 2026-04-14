@@ -7,8 +7,8 @@
 package shadowsocks
 
 import (
-	net "github.com/xtls/xray-core/common/net"
-	protocol "github.com/xtls/xray-core/common/protocol"
+	net "github.com/allo-rs/Xray-core/common/net"
+	protocol "github.com/allo-rs/Xray-core/common/protocol"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -260,7 +260,7 @@ const file_proxy_shadowsocks_config_proto_rawDesc = "" +
 	"\x11CHACHA20_POLY1305\x10\a\x12\x16\n" +
 	"\x12XCHACHA20_POLY1305\x10\b\x12\b\n" +
 	"\x04NONE\x10\tBd\n" +
-	"\x1acom.xray.proxy.shadowsocksP\x01Z+github.com/xtls/xray-core/proxy/shadowsocks\xaa\x02\x16Xray.Proxy.Shadowsocksb\x06proto3"
+	"\x1acom.xray.proxy.shadowsocksP\x01Z+github.com/allo-rs/Xray-core/proxy/shadowsocks\xaa\x02\x16Xray.Proxy.Shadowsocksb\x06proto3"
 
 var (
 	file_proxy_shadowsocks_config_proto_rawDescOnce sync.Once

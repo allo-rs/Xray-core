@@ -7,7 +7,7 @@
 package dokodemo
 
 import (
-	net "github.com/xtls/xray-core/common/net"
+	net "github.com/allo-rs/Xray-core/common/net"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -123,7 +123,7 @@ const file_proxy_dokodemo_config_proto_rawDesc = "" +
 	"\fPortMapEntry\x12\x10\n" +
 	"\x03key\x18\x01 \x01(\tR\x03key\x12\x14\n" +
 	"\x05value\x18\x02 \x01(\tR\x05value:\x028\x01B[\n" +
-	"\x17com.xray.proxy.dokodemoP\x01Z(github.com/xtls/xray-core/proxy/dokodemo\xaa\x02\x13Xray.Proxy.Dokodemob\x06proto3"
+	"\x17com.xray.proxy.dokodemoP\x01Z(github.com/allo-rs/Xray-core/proxy/dokodemo\xaa\x02\x13Xray.Proxy.Dokodemob\x06proto3"
 
 var (
 	file_proxy_dokodemo_config_proto_rawDescOnce sync.Once

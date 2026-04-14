@@ -296,7 +296,7 @@ const file_app_reverse_config_proto_rawDesc = "" +
 	"\x06Config\x12C\n" +
 	"\rbridge_config\x18\x01 \x03(\v2\x1e.xray.app.reverse.BridgeConfigR\fbridgeConfig\x12C\n" +
 	"\rportal_config\x18\x02 \x03(\v2\x1e.xray.app.reverse.PortalConfigR\fportalConfigBV\n" +
-	"\x16com.xray.proxy.reverseP\x01Z%github.com/xtls/xray-core/app/reverse\xaa\x02\x12Xray.Proxy.Reverseb\x06proto3"
+	"\x16com.xray.proxy.reverseP\x01Z%github.com/allo-rs/Xray-core/app/reverse\xaa\x02\x12Xray.Proxy.Reverseb\x06proto3"
 
 var (
 	file_app_reverse_config_proto_rawDescOnce sync.Once

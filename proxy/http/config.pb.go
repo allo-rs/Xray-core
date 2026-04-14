@@ -7,7 +7,7 @@
 package http
 
 import (
-	protocol "github.com/xtls/xray-core/common/protocol"
+	protocol "github.com/allo-rs/Xray-core/common/protocol"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -263,7 +263,7 @@ const file_proxy_http_config_proto_rawDesc = "" +
 	"\fClientConfig\x12<\n" +
 	"\x06server\x18\x01 \x01(\v2$.xray.common.protocol.ServerEndpointR\x06server\x12/\n" +
 	"\x06header\x18\x02 \x03(\v2\x17.xray.proxy.http.HeaderR\x06headerBO\n" +
-	"\x13com.xray.proxy.httpP\x01Z$github.com/xtls/xray-core/proxy/http\xaa\x02\x0fXray.Proxy.Httpb\x06proto3"
+	"\x13com.xray.proxy.httpP\x01Z$github.com/allo-rs/Xray-core/proxy/http\xaa\x02\x0fXray.Proxy.Httpb\x06proto3"
 
 var (
 	file_proxy_http_config_proto_rawDescOnce sync.Once

@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/xtls/xray-core/common"
-	. "github.com/xtls/xray-core/common/geodata/strmatcher"
+	"github.com/allo-rs/Xray-core/common"
+	. "github.com/allo-rs/Xray-core/common/geodata/strmatcher"
 )
 
 // See https://github.com/v2fly/v2ray-core/issues/92#issuecomment-673238489

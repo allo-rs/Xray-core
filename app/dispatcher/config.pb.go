@@ -109,7 +109,7 @@ const file_app_dispatcher_config_proto_rawDesc = "" +
 	"\rSessionConfigJ\x04\b\x01\x10\x02\"H\n" +
 	"\x06Config\x12>\n" +
 	"\bsettings\x18\x01 \x01(\v2\".xray.app.dispatcher.SessionConfigR\bsettingsB[\n" +
-	"\x17com.xray.app.dispatcherP\x01Z(github.com/xtls/xray-core/app/dispatcher\xaa\x02\x13Xray.App.Dispatcherb\x06proto3"
+	"\x17com.xray.app.dispatcherP\x01Z(github.com/allo-rs/Xray-core/app/dispatcher\xaa\x02\x13Xray.App.Dispatcherb\x06proto3"
 
 var (
 	file_app_dispatcher_config_proto_rawDescOnce sync.Once

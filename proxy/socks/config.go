@@ -3,7 +3,7 @@ package socks
 import (
 	"google.golang.org/protobuf/proto"
 
-	"github.com/xtls/xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/protocol"
 )
 
 func (a *Account) Equals(another protocol.Account) bool {

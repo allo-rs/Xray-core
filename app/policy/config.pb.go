@@ -504,7 +504,7 @@ const file_app_policy_config_proto_rawDesc = "" +
 	"LevelEntry\x12\x10\n" +
 	"\x03key\x18\x01 \x01(\rR\x03key\x12-\n" +
 	"\x05value\x18\x02 \x01(\v2\x17.xray.app.policy.PolicyR\x05value:\x028\x01BO\n" +
-	"\x13com.xray.app.policyP\x01Z$github.com/xtls/xray-core/app/policy\xaa\x02\x0fXray.App.Policyb\x06proto3"
+	"\x13com.xray.app.policyP\x01Z$github.com/allo-rs/Xray-core/app/policy\xaa\x02\x0fXray.App.Policyb\x06proto3"
 
 var (
 	file_app_policy_config_proto_rawDescOnce sync.Once

@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/core"
-	feature_stats "github.com/xtls/xray-core/features/stats"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/core"
+	feature_stats "github.com/allo-rs/Xray-core/features/stats"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

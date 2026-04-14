@@ -822,7 +822,7 @@ const file_common_geodata_geodat_proto_rawDesc = "" +
 	"\x05geoip\x18\x01 \x01(\v2\x1e.xray.common.geodata.GeoIPRuleH\x00R\x05geoip\x123\n" +
 	"\x06custom\x18\x02 \x01(\v2\x19.xray.common.geodata.CIDRH\x00R\x06customB\a\n" +
 	"\x05valueB[\n" +
-	"\x17com.xray.common.geodataP\x01Z(github.com/xtls/xray-core/common/geodata\xaa\x02\x13Xray.Common.Geodatab\x06proto3"
+	"\x17com.xray.common.geodataP\x01Z(github.com/allo-rs/Xray-core/common/geodata\xaa\x02\x13Xray.Common.Geodatab\x06proto3"
 
 var (
 	file_common_geodata_geodat_proto_rawDescOnce sync.Once

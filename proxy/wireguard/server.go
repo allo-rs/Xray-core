@@ -3,18 +3,18 @@ package wireguard
 import (
 	"context"
 
-	"github.com/xtls/xray-core/common/buf"
-	c "github.com/xtls/xray-core/common/ctx"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/log"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/common/session"
-	"github.com/xtls/xray-core/core"
-	"github.com/xtls/xray-core/features/dns"
-	"github.com/xtls/xray-core/features/policy"
-	"github.com/xtls/xray-core/features/routing"
-	"github.com/xtls/xray-core/transport"
-	"github.com/xtls/xray-core/transport/internet/stat"
+	"github.com/allo-rs/Xray-core/common/buf"
+	c "github.com/allo-rs/Xray-core/common/ctx"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/log"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/common/session"
+	"github.com/allo-rs/Xray-core/core"
+	"github.com/allo-rs/Xray-core/features/dns"
+	"github.com/allo-rs/Xray-core/features/policy"
+	"github.com/allo-rs/Xray-core/features/routing"
+	"github.com/allo-rs/Xray-core/transport"
+	"github.com/allo-rs/Xray-core/transport/internet/stat"
 )
 
 var nullDestination = net.TCPDestination(net.AnyIP, 0)

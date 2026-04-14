@@ -1,9 +1,9 @@
 package conf
 
 import (
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/proxy/dns"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/proxy/dns"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -72,7 +72,7 @@ const file_transport_internet_finalmask_mkcp_aes128gcm_config_proto_rawDesc = ""
 	"8transport/internet/finalmask/mkcp/aes128gcm/config.proto\x120xray.transport.internet.finalmask.mkcp.aes128gcm\"$\n" +
 	"\x06Config\x12\x1a\n" +
 	"\bpassword\x18\x01 \x01(\tR\bpasswordB\xb2\x01\n" +
-	"4com.xray.transport.internet.finalmask.mkcp.aes128gcmP\x01ZEgithub.com/xtls/xray-core/transport/internet/finalmask/mkcp/aes128gcm\xaa\x020Xray.Transport.Internet.Finalmask.Mkcp.Aes128Gcmb\x06proto3"
+	"4com.xray.transport.internet.finalmask.mkcp.aes128gcmP\x01ZEgithub.com/allo-rs/Xray-core/transport/internet/finalmask/mkcp/aes128gcm\xaa\x020Xray.Transport.Internet.Finalmask.Mkcp.Aes128Gcmb\x06proto3"
 
 var (
 	file_transport_internet_finalmask_mkcp_aes128gcm_config_proto_rawDescOnce sync.Once

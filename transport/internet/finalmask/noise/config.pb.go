@@ -190,7 +190,7 @@ const file_transport_internet_finalmask_noise_config_proto_rawDesc = "" +
 	"\treset_min\x18\x01 \x01(\x03R\bresetMin\x12\x1b\n" +
 	"\treset_max\x18\x02 \x01(\x03R\bresetMax\x12C\n" +
 	"\x05items\x18\x03 \x03(\v2-.xray.transport.internet.finalmask.noise.ItemR\x05itemsB\x97\x01\n" +
-	"+com.xray.transport.internet.finalmask.noiseP\x01Z<github.com/xtls/xray-core/transport/internet/finalmask/noise\xaa\x02'Xray.Transport.Internet.Finalmask.Noiseb\x06proto3"
+	"+com.xray.transport.internet.finalmask.noiseP\x01Z<github.com/allo-rs/Xray-core/transport/internet/finalmask/noise\xaa\x02'Xray.Transport.Internet.Finalmask.Noiseb\x06proto3"
 
 var (
 	file_transport_internet_finalmask_noise_config_proto_rawDescOnce sync.Once

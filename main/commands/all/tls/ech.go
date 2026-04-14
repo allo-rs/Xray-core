@@ -9,9 +9,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/main/commands/base"
-	"github.com/xtls/xray-core/transport/internet/tls"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/main/commands/base"
+	"github.com/allo-rs/Xray-core/transport/internet/tls"
 	"golang.org/x/crypto/cryptobyte"
 )
 

@@ -6,10 +6,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/features/dns"
-	"github.com/xtls/xray-core/features/outbound"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/features/dns"
+	"github.com/allo-rs/Xray-core/features/outbound"
 )
 
 var Controllers []func(network, address string, c syscall.RawConn) error

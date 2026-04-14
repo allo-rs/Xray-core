@@ -5,7 +5,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/xtls/xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/errors"
 )
 
 type Udpmask interface {

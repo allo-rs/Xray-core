@@ -8,8 +8,8 @@ import (
 
 	"github.com/apernet/quic-go"
 	"github.com/apernet/quic-go/quicvarint"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/common/protocol"
 )
 
 type interConn struct {

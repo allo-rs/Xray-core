@@ -4,13 +4,13 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/buf"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/common/protocol"
-	"github.com/xtls/xray-core/common/uuid"
-	"github.com/xtls/xray-core/proxy/vless"
-	. "github.com/xtls/xray-core/proxy/vless/encoding"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/common/buf"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/uuid"
+	"github.com/allo-rs/Xray-core/proxy/vless"
+	. "github.com/allo-rs/Xray-core/proxy/vless/encoding"
 )
 
 func toAccount(a *vless.Account) protocol.Account {

@@ -63,7 +63,7 @@ const file_transport_internet_finalmask_header_wechat_config_proto_rawDesc = "" 
 	"\n" +
 	"7transport/internet/finalmask/header/wechat/config.proto\x12/xray.transport.internet.finalmask.header.wechat\"\b\n" +
 	"\x06ConfigB\xaf\x01\n" +
-	"3com.xray.transport.internet.finalmask.header.wechatP\x01ZDgithub.com/xtls/xray-core/transport/internet/finalmask/header/wechat\xaa\x02/Xray.Transport.Internet.Finalmask.Header.Wechatb\x06proto3"
+	"3com.xray.transport.internet.finalmask.header.wechatP\x01ZDgithub.com/allo-rs/Xray-core/transport/internet/finalmask/header/wechat\xaa\x02/Xray.Transport.Internet.Finalmask.Header.Wechatb\x06proto3"
 
 var (
 	file_transport_internet_finalmask_header_wechat_config_proto_rawDescOnce sync.Once

@@ -6,8 +6,8 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/transport/internet"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/transport/internet"
 )
 
 func TestRegisterListenerController(t *testing.T) {

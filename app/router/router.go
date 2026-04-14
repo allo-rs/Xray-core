@@ -4,14 +4,14 @@ import (
 	"context"
 	"sync"
 
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/serial"
-	"github.com/xtls/xray-core/core"
-	"github.com/xtls/xray-core/features/dns"
-	"github.com/xtls/xray-core/features/outbound"
-	"github.com/xtls/xray-core/features/routing"
-	routing_dns "github.com/xtls/xray-core/features/routing/dns"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/serial"
+	"github.com/allo-rs/Xray-core/core"
+	"github.com/allo-rs/Xray-core/features/dns"
+	"github.com/allo-rs/Xray-core/features/outbound"
+	"github.com/allo-rs/Xray-core/features/routing"
+	routing_dns "github.com/allo-rs/Xray-core/features/routing/dns"
 )
 
 // Router is an implementation of routing.Router.

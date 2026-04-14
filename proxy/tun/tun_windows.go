@@ -11,7 +11,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/xtls/xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/errors"
 	"golang.org/x/sys/windows"
 	"golang.zx2c4.com/wintun"
 	"golang.zx2c4.com/wireguard/windows/tunnel/winipcfg"

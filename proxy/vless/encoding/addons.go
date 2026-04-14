@@ -5,12 +5,12 @@ import (
 	"io"
 	"net"
 
-	"github.com/xtls/xray-core/common/buf"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/protocol"
-	"github.com/xtls/xray-core/common/session"
-	"github.com/xtls/xray-core/proxy"
-	"github.com/xtls/xray-core/proxy/vless"
+	"github.com/allo-rs/Xray-core/common/buf"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/session"
+	"github.com/allo-rs/Xray-core/proxy"
+	"github.com/allo-rs/Xray-core/proxy/vless"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -7,7 +7,7 @@
 package outbound
 
 import (
-	protocol "github.com/xtls/xray-core/common/protocol"
+	protocol "github.com/allo-rs/Xray-core/common/protocol"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -73,7 +73,7 @@ const file_proxy_vmess_outbound_config_proto_rawDesc = "" +
 	"!proxy/vmess/outbound/config.proto\x12\x19xray.proxy.vmess.outbound\x1a!common/protocol/server_spec.proto\"J\n" +
 	"\x06Config\x12@\n" +
 	"\bReceiver\x18\x01 \x01(\v2$.xray.common.protocol.ServerEndpointR\bReceiverBm\n" +
-	"\x1dcom.xray.proxy.vmess.outboundP\x01Z.github.com/xtls/xray-core/proxy/vmess/outbound\xaa\x02\x19Xray.Proxy.Vmess.Outboundb\x06proto3"
+	"\x1dcom.xray.proxy.vmess.outboundP\x01Z.github.com/allo-rs/Xray-core/proxy/vmess/outbound\xaa\x02\x19Xray.Proxy.Vmess.Outboundb\x06proto3"
 
 var (
 	file_proxy_vmess_outbound_config_proto_rawDescOnce sync.Once

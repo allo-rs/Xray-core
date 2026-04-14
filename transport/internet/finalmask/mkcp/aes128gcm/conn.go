@@ -6,10 +6,10 @@ import (
 	"crypto/sha256"
 	"net"
 
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/crypto"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/transport/internet/finalmask"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/common/crypto"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/transport/internet/finalmask"
 )
 
 type aes128gcmConn struct {

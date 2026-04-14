@@ -1,4 +1,4 @@
-module github.com/xtls/xray-core
+module github.com/allo-rs/Xray-core
 
 go 1.26
 
@@ -14,7 +14,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.11.0
 	github.com/refraction-networking/utls v1.8.3-0.20260301010127-aa6edf4b11af
-	github.com/sagernet/sing v0.5.1
+	github.com/sagernet/sing v0.8.4
 	github.com/sagernet/sing-shadowsocks v0.2.7
 	github.com/stretchr/testify v1.11.1
 	github.com/vishvananda/netlink v1.3.1
@@ -37,6 +37,7 @@ require (
 
 require (
 	github.com/andybalholm/brotli v1.0.6 // indirect
+	github.com/anytls/sing-anytls v0.0.11 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/juju/ratelimit v1.0.2 // indirect

@@ -7,9 +7,9 @@
 package command
 
 import (
-	protocol "github.com/xtls/xray-core/common/protocol"
-	serial "github.com/xtls/xray-core/common/serial"
-	core "github.com/xtls/xray-core/core"
+	protocol "github.com/allo-rs/Xray-core/common/protocol"
+	serial "github.com/allo-rs/Xray-core/common/serial"
+	core "github.com/allo-rs/Xray-core/core"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -1010,7 +1010,7 @@ const file_app_proxyman_command_command_proto_rawDesc = "" +
 	"\x0eRemoveOutbound\x120.xray.app.proxyman.command.RemoveOutboundRequest\x1a1.xray.app.proxyman.command.RemoveOutboundResponse\"\x00\x12t\n" +
 	"\rAlterOutbound\x12/.xray.app.proxyman.command.AlterOutboundRequest\x1a0.xray.app.proxyman.command.AlterOutboundResponse\"\x00\x12t\n" +
 	"\rListOutbounds\x12/.xray.app.proxyman.command.ListOutboundsRequest\x1a0.xray.app.proxyman.command.ListOutboundsResponse\"\x00Bm\n" +
-	"\x1dcom.xray.app.proxyman.commandP\x01Z.github.com/xtls/xray-core/app/proxyman/command\xaa\x02\x19Xray.App.Proxyman.Commandb\x06proto3"
+	"\x1dcom.xray.app.proxyman.commandP\x01Z.github.com/allo-rs/Xray-core/app/proxyman/command\xaa\x02\x19Xray.App.Proxyman.Commandb\x06proto3"
 
 var (
 	file_app_proxyman_command_command_proto_rawDescOnce sync.Once

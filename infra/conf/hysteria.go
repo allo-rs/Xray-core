@@ -1,11 +1,11 @@
 package conf
 
 import (
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/protocol"
-	"github.com/xtls/xray-core/common/serial"
-	"github.com/xtls/xray-core/proxy/hysteria"
-	"github.com/xtls/xray-core/proxy/hysteria/account"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/serial"
+	"github.com/allo-rs/Xray-core/proxy/hysteria"
+	"github.com/allo-rs/Xray-core/proxy/hysteria/account"
 	"google.golang.org/protobuf/proto"
 )
 

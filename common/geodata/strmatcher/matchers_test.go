@@ -5,8 +5,8 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/xtls/xray-core/common"
-	. "github.com/xtls/xray-core/common/geodata/strmatcher"
+	"github.com/allo-rs/Xray-core/common"
+	. "github.com/allo-rs/Xray-core/common/geodata/strmatcher"
 )
 
 func TestMatcher(t *testing.T) {

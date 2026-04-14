@@ -3,8 +3,8 @@ package account
 import (
 	"sync"
 
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/protocol"
 
 	"google.golang.org/protobuf/proto"
 )

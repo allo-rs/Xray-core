@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/platform"
-	"github.com/xtls/xray-core/common/uuid"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/platform"
+	"github.com/allo-rs/Xray-core/common/uuid"
 )
 
 //go:embed dialer.html

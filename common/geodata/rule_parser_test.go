@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/xtls/xray-core/common/geodata"
+	"github.com/allo-rs/Xray-core/common/geodata"
 )
 
 func TestParseIPRules(t *testing.T) {

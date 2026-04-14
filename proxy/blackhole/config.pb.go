@@ -7,7 +7,7 @@
 package blackhole
 
 import (
-	serial "github.com/xtls/xray-core/common/serial"
+	serial "github.com/allo-rs/Xray-core/common/serial"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -147,7 +147,7 @@ const file_proxy_blackhole_config_proto_rawDesc = "" +
 	"\fHTTPResponse\"F\n" +
 	"\x06Config\x12<\n" +
 	"\bresponse\x18\x01 \x01(\v2 .xray.common.serial.TypedMessageR\bresponseB^\n" +
-	"\x18com.xray.proxy.blackholeP\x01Z)github.com/xtls/xray-core/proxy/blackhole\xaa\x02\x14Xray.Proxy.Blackholeb\x06proto3"
+	"\x18com.xray.proxy.blackholeP\x01Z)github.com/allo-rs/Xray-core/proxy/blackhole\xaa\x02\x14Xray.Proxy.Blackholeb\x06proto3"
 
 var (
 	file_proxy_blackhole_config_proto_rawDescOnce sync.Once

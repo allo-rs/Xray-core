@@ -914,7 +914,7 @@ const file_app_stats_command_command_proto_rawDesc = "" +
 	"\x14GetStatsOnlineIpList\x12'.xray.app.stats.command.GetStatsRequest\x1a4.xray.app.stats.command.GetStatsOnlineIpListResponse\"\x00\x12z\n" +
 	"\x11GetAllOnlineUsers\x120.xray.app.stats.command.GetAllOnlineUsersRequest\x1a1.xray.app.stats.command.GetAllOnlineUsersResponse\"\x00\x12n\n" +
 	"\rGetUsersStats\x12,.xray.app.stats.command.GetUsersStatsRequest\x1a-.xray.app.stats.command.GetUsersStatsResponse\"\x00Bd\n" +
-	"\x1acom.xray.app.stats.commandP\x01Z+github.com/xtls/xray-core/app/stats/command\xaa\x02\x16Xray.App.Stats.Commandb\x06proto3"
+	"\x1acom.xray.app.stats.commandP\x01Z+github.com/allo-rs/Xray-core/app/stats/command\xaa\x02\x16Xray.App.Stats.Commandb\x06proto3"
 
 var (
 	file_app_stats_command_command_proto_rawDescOnce sync.Once

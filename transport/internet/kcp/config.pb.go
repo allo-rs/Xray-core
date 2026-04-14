@@ -117,7 +117,7 @@ const file_transport_internet_kcp_config_proto_rawDesc = "" +
 	"\x11downlink_capacity\x18\x04 \x01(\rR\x10downlinkCapacity\x12'\n" +
 	"\x0fcwnd_multiplier\x18\x05 \x01(\rR\x0ecwndMultiplier\x12,\n" +
 	"\x12max_sending_window\x18\x06 \x01(\rR\x10maxSendingWindowBs\n" +
-	"\x1fcom.xray.transport.internet.kcpP\x01Z0github.com/xtls/xray-core/transport/internet/kcp\xaa\x02\x1bXray.Transport.Internet.Kcpb\x06proto3"
+	"\x1fcom.xray.transport.internet.kcpP\x01Z0github.com/allo-rs/Xray-core/transport/internet/kcp\xaa\x02\x1bXray.Transport.Internet.Kcpb\x06proto3"
 
 var (
 	file_transport_internet_kcp_config_proto_rawDescOnce sync.Once

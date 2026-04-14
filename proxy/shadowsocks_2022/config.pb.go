@@ -7,8 +7,8 @@
 package shadowsocks_2022
 
 import (
-	net "github.com/xtls/xray-core/common/net"
-	protocol "github.com/xtls/xray-core/common/protocol"
+	net "github.com/allo-rs/Xray-core/common/net"
+	protocol "github.com/allo-rs/Xray-core/common/protocol"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -476,7 +476,7 @@ const file_proxy_shadowsocks_2022_config_proto_rawDesc = "" +
 	"\fudp_over_tcp\x18\x05 \x01(\bR\n" +
 	"udpOverTcp\x12/\n" +
 	"\x14udp_over_tcp_version\x18\x06 \x01(\rR\x11udpOverTcpVersionBr\n" +
-	"\x1fcom.xray.proxy.shadowsocks_2022P\x01Z0github.com/xtls/xray-core/proxy/shadowsocks_2022\xaa\x02\x1aXray.Proxy.Shadowsocks2022b\x06proto3"
+	"\x1fcom.xray.proxy.shadowsocks_2022P\x01Z0github.com/allo-rs/Xray-core/proxy/shadowsocks_2022\xaa\x02\x1aXray.Proxy.Shadowsocks2022b\x06proto3"
 
 var (
 	file_proxy_shadowsocks_2022_config_proto_rawDescOnce sync.Once

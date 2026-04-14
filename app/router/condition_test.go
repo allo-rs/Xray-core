@@ -5,15 +5,15 @@ import (
 	"strconv"
 	"testing"
 
-	. "github.com/xtls/xray-core/app/router"
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/geodata"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/common/protocol"
-	"github.com/xtls/xray-core/common/protocol/http"
-	"github.com/xtls/xray-core/common/session"
-	"github.com/xtls/xray-core/features/routing"
-	routing_session "github.com/xtls/xray-core/features/routing/session"
+	. "github.com/allo-rs/Xray-core/app/router"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/common/geodata"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/common/protocol"
+	"github.com/allo-rs/Xray-core/common/protocol/http"
+	"github.com/allo-rs/Xray-core/common/session"
+	"github.com/allo-rs/Xray-core/features/routing"
+	routing_session "github.com/allo-rs/Xray-core/features/routing/session"
 )
 
 func withBackground() routing.Context {

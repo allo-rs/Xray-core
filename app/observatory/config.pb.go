@@ -470,7 +470,7 @@ const file_app_observatory_config_proto_rawDesc = "" +
 	"\tprobe_url\x18\x03 \x01(\tR\bprobeUrl\x12%\n" +
 	"\x0eprobe_interval\x18\x04 \x01(\x03R\rprobeInterval\x12-\n" +
 	"\x12enable_concurrency\x18\x05 \x01(\bR\x11enableConcurrencyB^\n" +
-	"\x18com.xray.app.observatoryP\x01Z)github.com/xtls/xray-core/app/observatory\xaa\x02\x14Xray.App.Observatoryb\x06proto3"
+	"\x18com.xray.app.observatoryP\x01Z)github.com/allo-rs/Xray-core/app/observatory\xaa\x02\x14Xray.App.Observatoryb\x06proto3"
 
 var (
 	file_app_observatory_config_proto_rawDescOnce sync.Once

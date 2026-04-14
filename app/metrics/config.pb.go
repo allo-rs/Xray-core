@@ -83,7 +83,7 @@ const file_app_metrics_config_proto_rawDesc = "" +
 	"\x06Config\x12\x10\n" +
 	"\x03tag\x18\x01 \x01(\tR\x03tag\x12\x16\n" +
 	"\x06listen\x18\x02 \x01(\tR\x06listenBR\n" +
-	"\x14com.xray.app.metricsP\x01Z%github.com/xtls/xray-core/app/metrics\xaa\x02\x10Xray.App.Metricsb\x06proto3"
+	"\x14com.xray.app.metricsP\x01Z%github.com/allo-rs/Xray-core/app/metrics\xaa\x02\x10Xray.App.Metricsb\x06proto3"
 
 var (
 	file_app_metrics_config_proto_rawDescOnce sync.Once

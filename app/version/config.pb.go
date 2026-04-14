@@ -92,7 +92,7 @@ const file_app_version_config_proto_rawDesc = "" +
 	"minVersion\x12\x1f\n" +
 	"\vmax_version\x18\x03 \x01(\tR\n" +
 	"maxVersionBR\n" +
-	"\x14com.xray.app.versionP\x01Z%github.com/xtls/xray-core/app/version\xaa\x02\x10Xray.App.Versionb\x06proto3"
+	"\x14com.xray.app.versionP\x01Z%github.com/allo-rs/Xray-core/app/version\xaa\x02\x10Xray.App.Versionb\x06proto3"
 
 var (
 	file_app_version_config_proto_rawDescOnce sync.Once

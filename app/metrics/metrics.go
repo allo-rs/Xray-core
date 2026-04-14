@@ -7,15 +7,15 @@ import (
 	_ "net/http/pprof"
 	"strings"
 
-	"github.com/xtls/xray-core/app/observatory"
-	"github.com/xtls/xray-core/common"
-	"github.com/xtls/xray-core/common/errors"
-	"github.com/xtls/xray-core/common/net"
-	"github.com/xtls/xray-core/common/signal/done"
-	"github.com/xtls/xray-core/core"
-	"github.com/xtls/xray-core/features/extension"
-	"github.com/xtls/xray-core/features/outbound"
-	feature_stats "github.com/xtls/xray-core/features/stats"
+	"github.com/allo-rs/Xray-core/app/observatory"
+	"github.com/allo-rs/Xray-core/common"
+	"github.com/allo-rs/Xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/net"
+	"github.com/allo-rs/Xray-core/common/signal/done"
+	"github.com/allo-rs/Xray-core/core"
+	"github.com/allo-rs/Xray-core/features/extension"
+	"github.com/allo-rs/Xray-core/features/outbound"
+	feature_stats "github.com/allo-rs/Xray-core/features/stats"
 )
 
 type MetricsHandler struct {

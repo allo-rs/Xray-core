@@ -7,7 +7,7 @@
 package inbound
 
 import (
-	protocol "github.com/xtls/xray-core/common/protocol"
+	protocol "github.com/allo-rs/Xray-core/common/protocol"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -221,7 +221,7 @@ const file_proxy_vless_inbound_config_proto_rawDesc = "" +
 	"\n" +
 	"seconds_to\x18\x06 \x01(\x03R\tsecondsTo\x12\x18\n" +
 	"\apadding\x18\a \x01(\tR\apaddingBj\n" +
-	"\x1ccom.xray.proxy.vless.inboundP\x01Z-github.com/xtls/xray-core/proxy/vless/inbound\xaa\x02\x18Xray.Proxy.Vless.Inboundb\x06proto3"
+	"\x1ccom.xray.proxy.vless.inboundP\x01Z-github.com/allo-rs/Xray-core/proxy/vless/inbound\xaa\x02\x18Xray.Proxy.Vless.Inboundb\x06proto3"
 
 var (
 	file_proxy_vless_inbound_config_proto_rawDescOnce sync.Once

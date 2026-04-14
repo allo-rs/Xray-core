@@ -5,7 +5,7 @@ package tun
 import (
 	"net"
 
-	"github.com/xtls/xray-core/common/errors"
+	"github.com/allo-rs/Xray-core/common/errors"
 	"gvisor.dev/gvisor/pkg/tcpip/stack"
 )
 

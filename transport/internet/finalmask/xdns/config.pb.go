@@ -81,7 +81,7 @@ const file_transport_internet_finalmask_xdns_config_proto_rawDesc = "" +
 	"\x06Config\x12\x18\n" +
 	"\adomains\x18\x01 \x03(\tR\adomains\x12\x1c\n" +
 	"\tresolvers\x18\x02 \x03(\tR\tresolversB\x94\x01\n" +
-	"*com.xray.transport.internet.finalmask.xdnsP\x01Z;github.com/xtls/xray-core/transport/internet/finalmask/xdns\xaa\x02&Xray.Transport.Internet.Finalmask.Xdnsb\x06proto3"
+	"*com.xray.transport.internet.finalmask.xdnsP\x01Z;github.com/allo-rs/Xray-core/transport/internet/finalmask/xdns\xaa\x02&Xray.Transport.Internet.Finalmask.Xdnsb\x06proto3"
 
 var (
 	file_transport_internet_finalmask_xdns_config_proto_rawDescOnce sync.Once

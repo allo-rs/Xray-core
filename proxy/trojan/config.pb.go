@@ -7,7 +7,7 @@
 package trojan
 
 import (
-	protocol "github.com/xtls/xray-core/common/protocol"
+	protocol "github.com/allo-rs/Xray-core/common/protocol"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -265,7 +265,7 @@ const file_proxy_trojan_config_proto_rawDesc = "" +
 	"\fServerConfig\x120\n" +
 	"\x05users\x18\x01 \x03(\v2\x1a.xray.common.protocol.UserR\x05users\x129\n" +
 	"\tfallbacks\x18\x02 \x03(\v2\x1b.xray.proxy.trojan.FallbackR\tfallbacksBU\n" +
-	"\x15com.xray.proxy.trojanP\x01Z&github.com/xtls/xray-core/proxy/trojan\xaa\x02\x11Xray.Proxy.Trojanb\x06proto3"
+	"\x15com.xray.proxy.trojanP\x01Z&github.com/allo-rs/Xray-core/proxy/trojan\xaa\x02\x11Xray.Proxy.Trojanb\x06proto3"
 
 var (
 	file_proxy_trojan_config_proto_rawDescOnce sync.Once

@@ -7,7 +7,7 @@
 package log
 
 import (
-	log "github.com/xtls/xray-core/common/log"
+	log "github.com/allo-rs/Xray-core/common/log"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
@@ -184,7 +184,7 @@ const file_app_log_config_proto_rawDesc = "" +
 	"\aConsole\x10\x01\x12\b\n" +
 	"\x04File\x10\x02\x12\t\n" +
 	"\x05Event\x10\x03BF\n" +
-	"\x10com.xray.app.logP\x01Z!github.com/xtls/xray-core/app/log\xaa\x02\fXray.App.Logb\x06proto3"
+	"\x10com.xray.app.logP\x01Z!github.com/allo-rs/Xray-core/app/log\xaa\x02\fXray.App.Logb\x06proto3"
 
 var (
 	file_app_log_config_proto_rawDescOnce sync.Once

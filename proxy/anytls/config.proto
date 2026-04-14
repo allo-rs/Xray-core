@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package xray.proxy.anytls;
+option csharp_namespace = "Xray.Proxy.AnyTLS";
+option go_package = "github.com/allo-rs/Xray-core/proxy/anytls";
+option java_package = "com.xray.proxy.anytls";
+option java_multiple_files = true;
+
+message User {
+  string email = 1;
+  string password = 2;
+}
+
+message ServerConfig {
+  repeated User users = 1;
+}
+
+message ClientConfig {
+  string address = 1;
+  uint32 port = 2;
+  string password = 3;
+  // 空闲会话检查间隔（秒），默认 30
+  int64 idle_session_check_interval = 4;
+  // 空闲会话超时（秒），默认 30
+  int64 idle_session_timeout = 5;
+  // 最小保持空闲会话数，默认 0
+  int32 min_idle_session = 6;
+}
