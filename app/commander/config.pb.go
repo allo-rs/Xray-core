@@ -134,7 +134,7 @@ const file_app_commander_config_proto_rawDesc = "" +
 	"\x06listen\x18\x03 \x01(\tR\x06listen\x12:\n" +
 	"\aservice\x18\x02 \x03(\v2 .xray.common.serial.TypedMessageR\aservice\"\x12\n" +
 	"\x10ReflectionConfigBX\n" +
-	"\x16com.xray.app.commanderP\x01Z'github.com/allo-rs/Xray-core/app/commander\xaa\x02\x12Xray.App.Commanderb\x06proto3"
+	"\x16com.xray.app.commanderP\x01Z*github.com/allo-rs/Xray-core/app/commander\xaa\x02\x12Xray.App.Commanderb\x06proto3"
 
 var (
 	file_app_commander_config_proto_rawDescOnce sync.Once
